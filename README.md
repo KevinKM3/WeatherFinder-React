@@ -1,3 +1,8 @@
+Weather Search app in React JS. I used the Open Weather Map API to make calls to a restful api to return the current weather data. 
+
+This App uses the Modern Javascript Fetch along with React hooks and conditonals.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
